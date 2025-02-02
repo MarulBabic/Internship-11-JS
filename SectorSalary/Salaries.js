@@ -1,4 +1,4 @@
-function startSalaryAnalysis() {
+function salaryAnalysis() {
     let employees = [];
 
     while (true) {

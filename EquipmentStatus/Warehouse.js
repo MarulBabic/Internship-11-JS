@@ -1,4 +1,4 @@
-function startEquipmentManagement() {
+function equipmentManagement() {
     let equipment = [];
 
     while (true) {

@@ -1,4 +1,4 @@
-function startPlantAnalysis() {
+function plantAnalysis() {
     let plants = [];
 
     while (true) {

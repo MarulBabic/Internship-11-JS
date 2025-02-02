@@ -1,4 +1,4 @@
-function startEmploymentAnalysis() {
+function employmentAnalysis() {
     let employees = [];
 
     while (true) {

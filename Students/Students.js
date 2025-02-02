@@ -1,4 +1,4 @@
-function startStudentGrouping() {
+function studentGrouping() {
     let students = [];
 
     while (true) {
