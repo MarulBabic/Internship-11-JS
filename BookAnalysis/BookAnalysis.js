@@ -1,4 +1,4 @@
-function startAnalysis() {
+function analysis() {
     let books = [];
 
     while (true) {
